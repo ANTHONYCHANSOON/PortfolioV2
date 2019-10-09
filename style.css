@@ -1,0 +1,28 @@
+#body{
+background-color: lightcyan;
+}
+.nav{
+text-align: right;
+}
+#welcomeimage{
+    width: 100%;
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#welcomeimagejpg {
+    width: 100%;
+}
+#aboutme {
+    text-align: center;
+    color:green;
+}
+#footer {
+    margin-bottom: 0px;
+    background-color: teal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.rounded-circle{
+    width:100px;
+}
