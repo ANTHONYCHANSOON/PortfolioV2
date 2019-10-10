@@ -1,5 +1,5 @@
 #body{
-background-color: lightcyan;
+background-color: #3d4045;
 }
 .nav{
 text-align: right;
@@ -15,14 +15,34 @@ text-align: right;
 }
 #aboutme {
     text-align: center;
-    color:green;
+    color:white;
 }
 #footer {
     margin-bottom: 0px;
-    background-color: teal;
+    background-color: #3d4045;
     padding-top: 10px;
     padding-bottom: 10px;
+    text-align: center;
+    color : white;
 }
 .rounded-circle{
-    width:100px;
+    width:60px;
+}
+#plswork{
+    text-align: right;
+}
+#firstskill{
+    text-align: center;
+    color: white;
+}
+#secondskill{
+    text-align: center;
+    color: white;
+}
+.jumbotron-fluid1 {
+    color:white;
+    background-color : #384D99;
+}
+#links{
+    color:white;
 }
